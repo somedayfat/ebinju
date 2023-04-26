@@ -21,7 +21,7 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Unsplash", "url": "/blog" },
+        { "label": "Unsplash", "url": "https://unsplash.com/@somedayfat" },
         { "label": "Medium", "url": "/#features" }
         
       ],
