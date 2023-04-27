@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "https://drive.google.com/file/d/14DAQaT-3A02tAdZPVzZfI0XSUQ4iZkrb/view?usp=sharing"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
