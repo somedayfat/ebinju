@@ -1,56 +1,56 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Photography",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/Photography.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Lightroom",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/lightroom.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Figma",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/Figma.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Writing (but sometimes)",
       "image": {
         "src": "../../images/medium.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Reading",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/reading.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Problem SOlving",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/problem.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Analytic",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/analytic.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Creativity",
       "image": {
         "src": "../../images/high-voltage.png",
         "alt": ""
