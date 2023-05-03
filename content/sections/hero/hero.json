@@ -1,22 +1,24 @@
 {
-  "intro": "Hallo",
+  "intro": "Holla",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/.png",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Saya Sutrisno, but you can call me Emod",
+  "title": "",
   "subtitle": {
-    "prefix": "",
-    "highlight": "",
+    "prefix": "People call me ",
+    "highlight": "Emod",
     "suffix": ""
+    
   },
-  "description": "Sebuah halaman untuk berbagi berbagai hal tentang saya sendiri hehe.",
+  
+  "description": "Tech geek by day, photographer by passion.",
   "socialProfiles": {
-    "from": ["LinkedIn","Mail"],
+    "from": ["LinkedIn","Medium","Twitter"],
     "showIcons": false
   }
 }
