@@ -23,7 +23,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Contact", "url": "mailto:sutrisnojunanta@gmail.com" },
-        { "label": "", "url": "/https://somedayfat.medium.com" }
+        { "label": "Unsplash", "url": "https://unsplash.com/@somedayfat" }
         
       ],
       "ctaButton": {

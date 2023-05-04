@@ -3,8 +3,15 @@ imageSrc: "../../images/emod.jpg"
 imageAlt: "About Me"
 ---
 
-### Hi, I'm Sutrisno an IT Enthusiast and Photographer based in Cikarang.
+Hi, I am <strong> Sutrisno</strong> an __Tech Enthusiast__ and __Photographer__ based in Cikarang.
 
-I'm currently working in PT. Daelim Indonesia as IT Operations and I'm doing my freelance job as a wedding photographer with several wedding photography services, you can see my non-copyright image on **[Unsplash](https://www.unsplash.com/@somedayfat)**. and Im also builds **[Thebridalmate](https://www.thebridalmate.com)**
-a digital wedding invitation website with one of my friends.
+I am currently working as an __IT Operations__ staff at __PT. Daelim Indonesia__ while pursuing my passion for photography as a wedding photographer with several photography services. You can view some of my non-copyrighted images on  **[Unsplash](https://www.unsplash.com/@somedayfat)**. Additionally, I co-founded **[Thebridalmate](https://www.thebridalmate.com)**, a digital wedding invitation website with a friend.
 
+```mermaid
+    "ebinju":
+        "Age" 26
+        "CurrentLocation" "Cikarang"
+        "CurrentJob" : "IT Operations"
+        "CurrentJobStatus" : "Open To Work" 
+        "CareerPath" : "Interested in any suitable Job"
+  ```

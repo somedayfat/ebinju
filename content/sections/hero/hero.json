@@ -16,9 +16,9 @@
     
   },
   
-  "description": "Tech geek by day, photographer by passion.",
+  "description": "Tech enthusiast by day, photographer by passion.",
   "socialProfiles": {
-    "from": ["LinkedIn","Medium","Twitter"],
+    "from": ["LinkedIn","Medium","Mail"],
     "showIcons": false
   }
 }
